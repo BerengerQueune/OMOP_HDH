@@ -1,0 +1,1 @@
+This project is a technical exercise. The goal is to transform raw, synthetic medical datasets into standardized tables conforming to the OMOP Common Data Model (CDM).
